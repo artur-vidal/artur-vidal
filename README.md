@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Cookbound
 
-- 🌱 I’m currently learning **Web Languages (HTML, CSS and JS)**
+- 🌱 I’m currently learning **Web Languages (HTML, CSS, JS)** and **PHP**
 
 - 📫 How to reach me: **arturvidalcontato@gmail.com**
 
