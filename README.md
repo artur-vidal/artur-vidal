@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Artur Vidal 👋</h1>
 <h3 align="center">A dedicated Systems Development student from Brazil</h3>
 
-- 🔭 I’m currently working on [Cookbound](https://azeddo.itch.io/cookbound)
+- 🔭 I’m currently studying [Godot](https://godotengine.org/)
 
-- 🌱 I’m currently learning **Web Languages (HTML, CSS, JS)** and **PHP**
+- 🌱 I’m currently learning **PHP** and **JS**
 
 - 📫 How to reach me: **arturvidalcontato@gmail.com**
 
