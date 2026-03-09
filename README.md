@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Artur Vidal 👋</h1>
 <h3 align="center">A dedicated Systems Development student from Brazil</h3>
 
-- 🔭 I’m currently studying [Godot](https://godotengine.org/)
+- 🔭 I’m currently studying [Laravel](https://laravel.com/)
 
 - 🌱 I’m currently learning **PHP** and **JS**
 
