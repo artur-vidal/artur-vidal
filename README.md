@@ -1,25 +1,77 @@
-<h1 align="center">Hi, I'm Artur Vidal 👋</h1>
-<h3 align="center">A dedicated Systems Development student from Brazil</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=6000&pause=1000&width=700&separator=%3C&lines=Route%3A%3Aget('%2Fprofile'%2C+%5BDeveloper%3A%3Aclass%2C+'index');)](https://git.io/typing-svg)
+---
 
-- 🔭 I’m currently studying [Laravel](https://laravel.com/)
+``` php
 
-- 🌱 I’m currently learning **PHP** and **JS**
+name => 'Artur Vidal' 
+skills => [  
+    'Front-end' => [  
+        'HTML',  
+        'CSS',  
+        'JS',  
+        'Bootstrap 5',  
+        'ReactJS'  
+    ], 
+    'Back-end' => [  
+        'Python',  
+        'PHP',  
+        'RESTful',  
+        'GraphQL',  
+        'SQL',  
+        'Laravel'  
+    ], 
+    'Game Development' => [
+        'Gamemaker', 
+        'Godot' 
+    ] 
+] 
 
-- 📫 How to reach me: **arturvidalcontato@gmail.com**
+current_activities => [ 
+    'System Analysis and Development at SENAI Mauá', 
+    'Studying Laravel', 
+    'Competitor at SP Skills' 
+]
 
-<h3 align="left">Connections:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/artur-vidal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artur-vidal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@arturvidalconta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arturvidalconta1" height="30" width="40" /></a>
-</p>
+special_message => 'Welcome to my profile!! 🙃'
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60" /> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60" /> </a> 
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="60" height="60" /> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60" /> </a> 
-<br>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60" /> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" /> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" /> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60" /> </a> 
+```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artur-vidal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&duration=6000&pause=1000&width=700&separator=%3C&lines=Route%3A%3Aget('%2Fprofile'%2C+%5BDeveloperController%3A%3Aclass%2C+'index');)](https://git.io/typing-svg)
+---
+
+``` php
+
+name => 'Artur Vidal' 
+skills => [  
+    'Front-end' => [  
+        'HTML',  
+        'CSS',  
+        'JS',  
+        'Bootstrap 5',  
+        'ReactJS'  
+    ], 
+    'Back-end' => [  
+        'Python',  
+        'PHP',  
+        'RESTful',  
+        'GraphQL',  
+        'SQL',  
+        'Laravel'  
+    ], 
+    'Game Development' => [
+        'Gamemaker', 
+        'Godot' 
+    ] 
+] 
+
+current_activities => [ 
+    'System Analysis and Development at SENAI Mauá', 
+    'Studying Laravel', 
+    'Competitor at SP Skills' 
+]
+
+special_message => 'Welcome to my profile!! 🙃'
+
+```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artur-vidal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
