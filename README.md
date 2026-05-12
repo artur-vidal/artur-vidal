@@ -3,14 +3,14 @@
 
 ``` php
 
-name => 'Artur Vidal' 
-skills => [  
+'name' => 'Artur Vidal' 
+'skills' => [  
     'Front-end' => [  
         'HTML',  
         'CSS',  
         'JS',  
         'Bootstrap 5',  
-        'ReactJS'  
+        'Vue.js'  
     ], 
     'Back-end' => [  
         'Python',  
@@ -26,13 +26,12 @@ skills => [
     ] 
 ] 
 
-current_activities => [ 
-    'System Analysis and Development at SENAI Mauá', 
-    'Studying Laravel', 
+'current_activities' => [ 
+    'System Analysis and Development at SENAI Mauá',
     'Competitor at SP Skills #17 - Web Technologies' 
 ]
 
-special_message => 'Welcome to my profile!! 🙃'
+'special_message' => 'Welcome to my profile!! 🙃'
 
 ```
 
