@@ -3,7 +3,7 @@
 
 ``` php
 
-'name' => 'Artur Vidal' 
+'name' => 'Artur Vidal',
 'skills' => [  
     'Front-end' => [  
         'HTML',  
@@ -24,14 +24,14 @@
         'Gamemaker', 
         'Godot' 
     ] 
-] 
+],
 
 'current_activities' => [ 
     'System Analysis and Development at SENAI Mauá',
     'Competitor at SP Skills #17 - Web Technologies' 
-]
+],
 
-'special_message' => 'Welcome to my profile!! 🙃'
+'special_message' => 'Welcome to my profile!! 🙃',
 
 ```
 
